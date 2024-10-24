@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/report-View/static/css/main.69099f0a.css",
+    "main.js": "/report-View/static/js/main.70ea8e87.js",
+    "static/js/453.87ae4768.chunk.js": "/report-View/static/js/453.87ae4768.chunk.js",
+    "static/media/ejicons.svg?-dzszjm": "/report-View/static/media/ejicons.64c24b54978448352754.svg",
+    "static/media/ejicons.eot": "/report-View/static/media/ejicons.cfcb78465742c33d6a64.eot",
+    "static/media/ejicons.woff": "/report-View/static/media/ejicons.36aa73a272e9fb1bfddf.woff",
+    "static/media/ejicons.ttf?-dzszjm": "/report-View/static/media/ejicons.300ffa6e9ddceb74f70b.ttf",
+    "static/media/waitingpopup.gif": "/report-View/static/media/waitingpopup.925d5cb9da5436bb14ac.gif",
+    "static/media/colorpicker_light_material.png": "/report-View/static/media/colorpicker_light_material.453c5e316168f18ffdcd.png",
+    "static/media/ajax-loader.gif": "/report-View/static/media/ajax-loader.da8be1b3d7c00753a019.gif",
+    "static/media/dropPointer.cur": "/report-View/static/media/dropPointer.96bcda403ea23af8d162.cur",
+    "static/media/errorIcon.svg": "/report-View/static/media/errorIcon.58be25a65a5e28bc1ef5.svg",
+    "static/media/alertIcon.svg": "/report-View/static/media/alertIcon.7b5a918355bf6d706d28.svg",
+    "static/media/ej-reportviewericons.eot?wpa4ep": "/report-View/static/media/ej-reportviewericons.b2fe20309a2ffa2d922f.eot",
+    "index.html": "/report-View/index.html",
+    "static/media/ej-reportviewericons.woff?wpa4ep": "/report-View/static/media/ej-reportviewericons.67a0b99689c3c4452194.woff",
+    "static/media/ej-reportviewericons.ttf?wpa4ep": "/report-View/static/media/ej-reportviewericons.b43c23b1c6edb9cd70fb.ttf",
+    "static/media/ej-reportviewericons.svg?wpa4ep": "/report-View/static/media/ej-reportviewericons.8f614f42aa834f45b12e.svg",
+    "static/media/expand.svg": "/report-View/static/media/expand.66b4b20e13024d632d2f.svg",
+    "static/media/collapse.svg": "/report-View/static/media/collapse.37ced42c835e00abe3e3.svg",
+    "main.69099f0a.css.map": "/report-View/static/css/main.69099f0a.css.map",
+    "main.70ea8e87.js.map": "/report-View/static/js/main.70ea8e87.js.map",
+    "453.87ae4768.chunk.js.map": "/report-View/static/js/453.87ae4768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69099f0a.css",
+    "static/js/main.70ea8e87.js"
+  ]
+}
